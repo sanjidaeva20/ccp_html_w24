@@ -1,3 +1,2 @@
-# ccp_html_w24
-
-SI 339 Common Class Project 
+# ccp_starter_code
+Starter Code for your CCP 
